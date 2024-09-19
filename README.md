@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Taresh Mehra!
 
 Welcome to my GitHub profile! I'm a passionate [Your Profession/Title, e.g., Software Developer, DevOps Engineer, etc.] with a strong focus on automation and cloud infrastructure.
 
